@@ -1,2 +1,0 @@
-# voxelland
-The Hosting Website
